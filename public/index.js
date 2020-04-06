@@ -83,7 +83,7 @@ function initBotConversation() {
         domain: domain
     });
     const styleOptions = {
-        botAvatarImage: 'https://www.globalvirustracker.org/assets/favicon.ico',
+        botAvatarImage: 'https://www.globalvirustracker.org/assets/favicon.ico?size=64',
         // botAvatarInitials: '',
         // userAvatarImage: '',
         hideSendBox: true, /* set to true to hide the send box from the view */
