@@ -83,6 +83,7 @@ function initBotConversation() {
         domain: domain
     });
     const styleOptions = {
+        bubbleBackground: 'rgba(0, 0, 255, .1)',
         botAvatarImage: 'https://www.globalvirustracker.org/assets/favicon.ico?size=30',
         // botAvatarInitials: '',
         // userAvatarImage: '',
