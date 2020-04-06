@@ -90,7 +90,7 @@ function initBotConversation() {
         // userAvatarImage: '',
         hideSendBox: true, /* set to true to hide the send box from the view */
         botAvatarInitials: 'Bot',
-        userAvatarInitials: 'You',
+        //userAvatarInitials: 'You',
         backgroundColor: '#F8F8F8'
     };
 
