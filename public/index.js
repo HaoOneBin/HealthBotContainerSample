@@ -85,7 +85,7 @@ function initBotConversation() {
     const styleOptions = {
         bubbleBackground: 'rgba(0, 0, 255, .1)',
         bubbleFromUserBackground: 'rgba(0, 255, 0, .1)',
-        botAvatarImage: 'https://www.globalvirustracker.org/assets/favicon.ico?size=30',
+        // botAvatarImage: 'https://www.globalvirustracker.org/assets/favicon.ico?size=30',
         // botAvatarInitials: '',
         // userAvatarImage: '',
         hideSendBox: true, /* set to true to hide the send box from the view */
@@ -111,7 +111,7 @@ function initBotConversation() {
                             // Use the following activity to proactively invoke a bot scenario
                             
                             triggeredScenario: {
-                                trigger: "covid19_triage",
+                                trigger: "MentalHealthBot",
                                 // args: {
                                 //     // myVar1: "{custom_arg_1}",
                                 //     // myVar2: "{custom_arg_2}"
